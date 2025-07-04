@@ -26,7 +26,7 @@ Captionの生成にGEMINI_APIを使ったが、無料プランで作成したた
 これら2個の点とベンチマークの作成について今週は取り組みたいと思っております.
 また、今回、クラウドを使えないことでの制約の大きさを実感したので、クラウド環境を用いた開発を勉強したいです。  
 
-## リンク
-id_map.json
+## データのリンク
+https://drive.google.com/drive/folders/19mYMdrp0kHg6euEJZBmAbkw5d04Q-qND?usp=sharing
 
 
